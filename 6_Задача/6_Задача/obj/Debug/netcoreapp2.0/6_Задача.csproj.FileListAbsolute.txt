@@ -1,0 +1,11 @@
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\bin\Debug\netcoreapp2.0\6_Задача.deps.json
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\bin\Debug\netcoreapp2.0\6_Задача.runtimeconfig.json
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\bin\Debug\netcoreapp2.0\6_Задача.runtimeconfig.dev.json
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\bin\Debug\netcoreapp2.0\6_Задача.dll
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\bin\Debug\netcoreapp2.0\6_Задача.pdb
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\obj\Debug\netcoreapp2.0\6_Задача.csprojAssemblyReference.cache
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\obj\Debug\netcoreapp2.0\6_Задача.csproj.CoreCompileInputs.cache
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\obj\Debug\netcoreapp2.0\6_Задача.AssemblyInfoInputs.cache
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\obj\Debug\netcoreapp2.0\6_Задача.AssemblyInfo.cs
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\obj\Debug\netcoreapp2.0\6_Задача.dll
+C:\Users\npost\Desktop\Практика\6_Задача\6_Задача\obj\Debug\netcoreapp2.0\6_Задача.pdb
